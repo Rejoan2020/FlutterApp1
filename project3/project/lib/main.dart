@@ -29,7 +29,7 @@ class _HPState extends State<HP> {
   var list = ["Custom broadcast receiver.","Wifi RTT state change receiver.","System battery notification receiver"];
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blue[200],
+      backgroundColor: Colors.blue[201],
       body: SizedBox.expand(
         child : Column(
           mainAxisAlignment: MainAxisAlignment.center,
